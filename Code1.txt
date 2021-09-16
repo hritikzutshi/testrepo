@@ -4,3 +4,7 @@ Bug fixed using hotfix
 New fix using Git Bash in release
 
 New change by me (dev1)
+
+New change by dev 2
+
+Merge conflict resolved
